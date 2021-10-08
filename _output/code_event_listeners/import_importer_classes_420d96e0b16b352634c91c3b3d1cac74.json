@@ -1,0 +1,9 @@
+{
+    "event_id": "import_importer_classes",
+    "execute_order": 10,
+    "callback_class": "ThemeHouse\\QAForumsImporter\\Listener\\ImportImporterClasses",
+    "callback_method": "importImporterClasses",
+    "active": true,
+    "hint": "",
+    "description": ""
+}

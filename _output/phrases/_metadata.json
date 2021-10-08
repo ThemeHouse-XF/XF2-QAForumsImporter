@@ -1,0 +1,14 @@
+{
+    "thqafi_thread_status.txt": {
+        "global_cache": false,
+        "version_id": 1000011,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "3c452e760de1bd7ecb3bef409f0d2aa7"
+    },
+    "thqafi_votes.txt": {
+        "global_cache": false,
+        "version_id": 1000011,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "8c3560971347019d5f97199e943831f0"
+    }
+}
